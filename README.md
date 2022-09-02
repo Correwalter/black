@@ -1,4 +1,4 @@
-# `💫 BLACK - 𝐵𝑂𝑇 💫`
+# `🖤BLACK - 𝐵𝑂𝑇🖤`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
