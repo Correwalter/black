@@ -1,7 +1,8 @@
 let handler = async (m, { conn }) => {
 m.reply(`
-Que lindo eres tú eres mi bebé mi bebito fiu fiu 
+*Bot activo* ✅
+*Bot uso público* ✅
 `)
 }
-handler.command = /^(infohost)$/i
+handler.command = /^(estado)$/i
 module.exports = handler
