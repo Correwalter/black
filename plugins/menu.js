@@ -70,7 +70,10 @@ let menu = `
 
 
 
-
+Sigue a esta cuenta y comenta algo bonito
+Y así agregaré más comandos al Bot
+👇
+https://youtube.com/channel/UCe7E9yDWRa86PIPQDDScoUA
 
 
 
