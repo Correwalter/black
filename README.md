@@ -49,4 +49,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
                  |BlackBot ©|
                  
 
-
+### 'Sigue a esta cuenta y comenta algo bonito y así el Bot tendrá más comandos '
+''👇
+https://youtube.com/channel/UCe7E9yDWRa86PIPQDDScoUA
